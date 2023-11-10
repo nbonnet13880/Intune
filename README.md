@@ -4,4 +4,4 @@ The tools permit to create Intune Win32 App Package. This package is used by Int
 ## Example
 
 * **Example for package Tools in Apps Folder** : Intunewinapputil -c <PathandName> -s <SetupFile> -o <PathName>
-** **Test**
+- **Test**
